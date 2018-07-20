@@ -5,7 +5,7 @@ I tapped into my passion for healthcare to explore a large dataset of medical ap
   <img width="800" height="600" src="/featureimportance.PNG">
 </p>
 
-* linear SVM capturing 77% (recall) of no-show cases
+* Linear SVM, capturing 77% (recall) of no-show cases
 * 'Age' is the most important feature
 * Resolved imbalanced Class issue using SMOTE (Synthetic Minority Over-sampling Technique)
 
