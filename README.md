@@ -6,7 +6,7 @@ I tapped into my passion for healthcare to explore a large dataset of medical ap
 </p>
 
 * linear SVM capturing 77% (recall) of no-show cases
-* 'Age' is most important feature
+* 'Age' is the most important feature
 * Resolved imbalanced Class issue using SMOTE (Synthetic Minority Over-sampling Technique)
 
 Script: [Jupyter Notebook](/medical_noshow%20prediction.ipynb)
