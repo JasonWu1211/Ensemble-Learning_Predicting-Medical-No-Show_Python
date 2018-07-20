@@ -9,5 +9,6 @@ I tapped into my passion for healthcare to explore a large dataset of medical ap
 * 'Age' is the most important feature
 * Resolved imbalanced Class issue using SMOTE (Synthetic Minority Over-sampling Technique)
 
-Script: [Jupyter Notebook](/medical_noshow%20prediction.ipynb)
+### Script 
+[Jupyter Notebook](/medical_noshow%20prediction.ipynb)
 
